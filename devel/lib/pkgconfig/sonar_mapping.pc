@@ -1,0 +1,8 @@
+prefix=/home/biorobotics/catkin_ws/devel
+
+Name: sonar_mapping
+Description: Description of sonar_mapping
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

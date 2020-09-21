@@ -1,0 +1,8 @@
+prefix=/home/biorobotics/catkin_ws/install
+
+Name: amcl3d
+Description: Description of amcl3d
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: visualization_msgs nav_msgs octomap_ros pcl_ros rosinrange_msg

@@ -1,0 +1,8 @@
+prefix=/home/biorobotics/catkin_ws/install
+
+Name: rosinrange_msg
+Description: Description of rosinrange_msg
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_runtime
